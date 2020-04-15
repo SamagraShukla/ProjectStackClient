@@ -1,0 +1,13 @@
+.map_div{
+    margin-left: 4%;
+    border-bottom: 1px solid royalblue;
+}
+.divtag{
+    margin-top: 30%;
+    position: relative;
+}
+
+
+.container_size{
+    max-width: 100% !important;
+}

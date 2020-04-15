@@ -1,0 +1,27 @@
+.tablebooking{
+    width: 40%;
+    margin: auto;
+    margin-top: 2%;
+    padding: auto;
+}
+
+.inventory{
+    width: 40%;
+    margin: auto;
+    margin-top: 2%;
+    padding: auto;
+}
+
+#inventoryList{
+    width: 80%;
+    margin: auto;
+    margin-top: 2%;
+    padding: auto;
+}
+
+#tableBookingList{
+    width: 80%;
+    margin: auto;
+    margin-top: 2%;
+    padding: auto;
+}
